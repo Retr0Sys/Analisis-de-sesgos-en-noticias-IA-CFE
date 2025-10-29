@@ -4,7 +4,7 @@
 Este proyecto utiliza un modelo de *Word Embedding* simple implementado en **Python** para analizar y detectar posibles sesgos en un corpus de noticias en español. El objetivo es identificar asociaciones no deseadas o sesgadas en el tratamiento y la elección de palabras dentro de los textos periodísticos y reflexionar sobre su impacto ético.
 ---
 <p align="center">
-<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/dac46f0f-b03a-44d9-8378-58a380ce0198" />
+   ![Artificial Intelligence Dancing GIF](https://github.com/user-attachments/assets/46e2def6-6494-4007-a96b-16ce80e9a328)
 </p>
 ---
 
