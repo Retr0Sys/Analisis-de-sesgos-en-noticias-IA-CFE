@@ -5,8 +5,7 @@ Este proyecto utiliza un modelo de *Word Embedding* simple implementado en **Pyt
 ---
 <p align="center">
    
-   ![Artificial Intelligence Dancing GIF](https://github.com/user-attachments/assets/46e2def6-6494-4007-a96b-16ce80e9a328)
-   
+   ![Artificial Intelligence Dancing GIF](https://github.com/user-attachments/assets/46e2def6-6494-4007-a96b-16ce80e9a328)   
 </p>
 ---
 
